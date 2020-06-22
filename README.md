@@ -1,6 +1,6 @@
-# My Learning Journal
+# **My Learning Journal**
 
-## 1. Growth Mindset  
+## 1. Markup  
   - This means to me
   - X
   - Y
