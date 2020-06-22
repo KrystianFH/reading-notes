@@ -2,7 +2,7 @@
 
 *Hello Starshine, the Earth says Hello!* 
   * My name is Krystian. 
-  * Here is a link to my GitHub profile: https://github.com/KrystianFH
+  * Here is a link to my GitHub profile: (https://github.com/KrystianFH)
 
 ## 1. Mastering *Markdown* 
   - Markdown is used to style text, on pages like Github.
