@@ -1,5 +1,8 @@
 # __My Learning Journal__
 
+Hello Starshine, the Earth says Hello! My name is Krystian. 
+Here is a link to my GitHub profile: 
+
 ## 1. Mastering *Markdown* 
   - Markdown is used to style text, on pages like Github.
   - Aside from styling text, Markdown can be used to add *images, tables, and links*!
