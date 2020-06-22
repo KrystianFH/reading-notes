@@ -1,7 +1,7 @@
 # **My Learning Journal**
 
-## 1. Markup  
-  - This means to me
-  - X
-  - Y
-  - Z
+## 1. Mastering *Markdown* 
+  - Markdown is used to style text, on pages like Github.
+  - Aside from styling text, Markdown can be used to add images, tables, and links!
+  - Markdown even supports Emoji!! :stuck_out_tongue_closed_eyes: :wink: :relaxed:
+ 
