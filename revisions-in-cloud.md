@@ -49,3 +49,5 @@ we use both our *terminals* and *git*.
     
     Change Directory
       - cd
+
+[**Return to Home**](README.md)
