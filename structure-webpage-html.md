@@ -5,7 +5,7 @@
 **Structure**
 
 >helps readers to understand the messages you are trying to convey and to navigate around the document   
--Jon Duckett
+- Jon Duckett
 
 **Structural Elements**
   - Headers
@@ -16,7 +16,7 @@
 
 **Tags**
 >act like containers; they tell you something about the information that lies between their opening and closing tags  
--Jon Duckett
+- Jon Duckett
 
 **Attributes**
 >provide additional information about the contents of an element, appearing in the opening tag of the element and are made up of two parts: a name and a value  
