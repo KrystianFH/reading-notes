@@ -12,7 +12,7 @@ CODE 102
 1. [Class Two: *Configuring a Coder's Computer*](coders-computer.md)
 1. [Class Three: *Revisions in the Cloud*](revisions-in-cloud.md) 
 1. [Class Four: *Structure Web Pages in HTML*](structure-webpage-html.md)
-1. Class Five:
+1. [Class Five: *Design Web Pages with CSS*](css.md)
 1. Class Six:
 1. Class Seven: 
 1. Class Eight:

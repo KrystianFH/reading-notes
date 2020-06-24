@@ -55,3 +55,21 @@ CSS Selectors:
 
 ## Duckett HTML & CSS  | Chapter 11  | Color
 
+### The Importance of Color
+
+Adding color to a page brings it to life and makes the experience more engaging for the reader. 
+
+Colors are Specified as either:  
+  - RGB Values
+  - Hex Codes
+  - Color Names
+
+It is important to be thoughtful about color choice and contrast so that the page is easy to read and does not promote eye fatigue.
+
+RGBA
+>An extra value used in CSS3 to indicate opacity -Jon Duckett
+
+HSLA
+>A value in CSS3 that allows the user to specify colors as HSL values, with an optional opacity value
+
+[**Return to Home**](README.md)
