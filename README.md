@@ -8,12 +8,12 @@
 
 CODE 102
 
-1. [Class One: *Growth Mindset and Markdown*](growth-mindset.md)
-1. [Class Two: *Configuring a Coder's Computer*](coders-computer.md)
-1. [Class Three: *Revisions in the Cloud*](revisions-in-cloud.md) 
-1. [Class Four: *Structure Web Pages in HTML*](structure-webpage-html.md)
-1. [Class Five: *Design Web Pages with CSS*](css.md)
-1. Class Six:
+1. [__Class One:__ *Growth Mindset and Markdown*](growth-mindset.md)
+1. [__Class Two:__ *Configuring a Coder's Computer*](coders-computer.md)
+1. [__Class Three:__ *Revisions in the Cloud*](revisions-in-cloud.md) 
+1. [__Class Four:__ *Structure Web Pages in HTML*](structure-webpage-html.md)
+1. [__Class Five:__ *Design Web Pages with CSS*](css.md)
+1. [__Class Six (A):__ *Dynamic Web Pages with Javascript*](js-webpage.md)
 1. Class Seven: 
 1. Class Eight:
 1. Class Nine: 
