@@ -18,8 +18,7 @@ CODE 102
 1. [__Class Seven:__ *Programming with JavaScript*](js-program.md) 
 1. [__Class Eight:__ *Operators and Loops*](loops.md
 )
-1. Class Nine: 
-1. Class Ten:
+
 
 CODE 200
 
