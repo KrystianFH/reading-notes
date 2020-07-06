@@ -19,13 +19,23 @@ CODE 102
 1. [__Class Eight:__ *Operators and Loops*](loops.md
 )
 
-
 CODE 200
 
-1. Class One
+1. [__Class One:__ *Introductory HTML and JavaScript*](class-01.md)
 1. Class Two
 1. Class Three
 1. Class Four
+1. Class Five
+1. Class Six
+1. Class Seven
+1. Class Eight
+1. Class Nine
+1. Class Ten
+1. Class Eleven
+1. Class Twelve
+1. Class Thirteen
+1. Class Fourteen
+1. Class Fifteen
 
 CODE 300
 
