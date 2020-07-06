@@ -22,20 +22,20 @@ CODE 102
 CODE 200
 
 1. [__Class One:__ *Introductory HTML and JavaScript*](class-01.md)
-1. Class Two
-1. Class Three
-1. Class Four
-1. Class Five
-1. Class Six
-1. Class Seven
-1. Class Eight
-1. Class Nine
-1. Class Ten
-1. Class Eleven
-1. Class Twelve
-1. Class Thirteen
-1. Class Fourteen
-1. Class Fifteen
+1. [__Class Two:__ *HTML Text and CSS Introduction, Basic JavaScript Instructions*](class-02.md)
+1. [__Class Three:__ **]()
+1. [__Class Four:__ **]()
+1. [__Class Five:__ **]()
+1. [__Class Six:__ **]()
+1. [__Class Seven:__ **]()
+1. [__Class Eight:__ **]()
+1. [__Class Nine:__ **]()
+1. [__Class Ten:__ **]()
+1. [__Class Eleven:__ **]()
+1. [__Class Twelve:__ **]()
+1. [__Class Thirteen:__ **]()
+1. [__Class Fourteen:__ **]()
+1. [__Class Fifteen:__ **]()
 
 CODE 300
 
