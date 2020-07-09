@@ -20,5 +20,21 @@ CSS also gives characteristics to the boxes on the page and how they behave on t
 
 It is important to consider all of the devices that will be able to display your content because the display size of these devices can vary greatly and distort your page. 
 
+### Functions, Methods, and Objects | Ch 3 | JavaScript & JQUERY by Jon Duckett
+
+#### Functions
+Functions are made up of multiple statements that are working together to perform a task.
+
+They can be reused throughout the code to perform the same task.
+
+#### Methods
+Methods are functions that are created inside of an object
+
+#### Objects
+Objects are used to model data and are made up of properties and methods
+
+### 6 Reasons for Pair Programming
+
+#### ~Article is not populating, will check back~
 
 [**Return to Home**](README.md)
