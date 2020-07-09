@@ -24,7 +24,7 @@ CODE 200
 1. [__Class One:__ *Introductory HTML and JavaScript*](class-01.md)
 1. [__Class Two:__ *HTML Text and CSS Introduction, Basic JavaScript Instructions*](class-02.md)
 1. [__Class Three:__ *HTML Lists, CSS Boxes, JS Control Flow*](class-03.md)
-1. [__Class Four:__ **]()
+1. [__Class Four:__ *HTML Links, CSS Layout, JS Functions*](class-04.md)
 1. [__Class Five:__ **]()
 1. [__Class Six:__ **]()
 1. [__Class Seven:__ **]()
