@@ -28,7 +28,7 @@ CODE 200
 1. [__Class Five:__ *HTML Images; CSS Color & Text*](class-05.md)
 1. [__Class Six:__ *JS Object Literals: The DOM*](class-06.md)
 1. [__Class Seven:__ *HTML Tables : JS Constructor Functions*](class-07.md)
-1. [__Class Eight:__ **]()
+1. [__Class Eight:__ *CSS Layout*](class-08.md)
 1. [__Class Nine:__ **]()
 1. [__Class Ten:__ **]()
 1. [__Class Eleven:__ **]()
