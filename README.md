@@ -31,7 +31,7 @@ CODE 200
 1. [__Class Eight:__ *CSS Layout*](class-08.md)
 1. [__Class Nine:__ *Forms and Events*](class-09.md)
 1. [__Class Ten:__ *JavaScript Debugging*](class-10.md)
-1. [__Class Eleven:__ **]()
+1. [__Class Eleven:__ *HTML: Assorted Topics*](class-11.md)
 1. [__Class Twelve:__ **]()
 1. [__Class Thirteen:__ **]()
 1. [__Class Fourteen:__ **]()
