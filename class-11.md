@@ -39,6 +39,21 @@ Companies often offer templates for use as a foundation upon which to build:
 - e-commerce websites
 - various web page tools
 
+### Duckett HTML | Chapter 9  | Flash, Video, Audio
+
+**Flash**  
+
+Allows for the additions of:  
+- animations
+- video
+- audio  
+...to a web page.
+
+Is not supported on iPhones and iPads.
+
+Is no longer supported by many browsers.
+
+HTML5 has replaced the need for flash with \<video\> and \<audio\> elements
 
 [**Return to Home**](README.md)
 
