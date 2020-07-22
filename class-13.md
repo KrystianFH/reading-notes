@@ -24,5 +24,6 @@ userData allows web pages to store up to 64KB of data per domain.
 - uses XML-based structure
 
 
-*This information was referenced from* [HERE!](http://diveinto.html5doctor.com/storage.html)
+*This information was referenced from* [HERE!](http://diveinto.html5doctor.com/storage.html)  
+
 [**Return to Home**](README.md)
