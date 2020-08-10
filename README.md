@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-CODE 102
+CODE 102 || Intro to Software Development
 
 1. [__Class One:__ *Growth Mindset and Markdown*](growth-mindset.md)
 1. [__Class Two:__ *Configuring a Coder's Computer*](coders-computer.md)
@@ -19,7 +19,7 @@ CODE 102
 1. [__Class Eight:__ *Operators and Loops*](loops.md
 )
 
-CODE 200
+CODE 201 || Foundations of Software Development
 
 1. [__Class One:__ *Introductory HTML and JavaScript*](class-01.md)
 1. [__Class Two:__ *HTML Text and CSS Introduction, Basic JavaScript Instructions*](class-02.md)
@@ -34,17 +34,15 @@ CODE 200
 1. [__Class Eleven:__ *HTML: Assorted Topics*](class-11.md)
 1. [__Class Twelve:__ *\<canvas\> Element and Chart.js*](class-12.md)
 1. [__Class Thirteen:__ *The Past, Present & Future of Local Storage for Web Applications*](class-13.md)
-1. [__Class Fourteen:__ **]()
-1. [__Class Fifteen:__ **]()
 
-CODE 300
+CODE 301 || Intermediate Software Development
 
 1. Class One
 1. Class Two
 1. Class Three
 1. Class Four
 
-CODE 400
+CODE 401 || Advanced Software Development
 
 1. Class One
 1. Class Two
