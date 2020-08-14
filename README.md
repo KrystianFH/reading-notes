@@ -40,7 +40,8 @@ CODE 301 || Intermediate Software Development
 1. Class One
 1. Class Two
 1. Class Three
-1. 1. [__Class Four:__ *Responsive Web Design and Regular Expressions*](301class04.md)
+1. [__Class Four:__ *Responsive Web Design and Regular Expressions*](301class04.md)
+1. [__Class Five:__ *Heroku Deployment*](301class05.md)
 
 
 CODE 401 || Advanced Software Development
