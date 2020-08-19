@@ -44,6 +44,7 @@ CODE 301 || Intermediate Software Development
 1. [__Class Five:__ *Heroku Deployment*](301class05.md)
 1. [__Class Six:__ *Node, Express, and APIs*](301class06.md)
 1. [__Class Seven:__ *REST*](301class07.md)
+1. [__Class Eight:__ *SQL*](301class08.md)
 
 
 CODE 401 || Advanced Software Development
