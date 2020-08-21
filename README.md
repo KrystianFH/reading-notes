@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-CODE 102 || Intro to Software Development
+CODE 102 | Intro to Software Development
 
 1. [__Class One:__ *Growth Mindset and Markdown*](growth-mindset.md)
 1. [__Class Two:__ *Configuring a Coder's Computer*](coders-computer.md)
@@ -16,10 +16,9 @@ CODE 102 || Intro to Software Development
 1. [__Class Six (A):__ *Dynamic Web Pages with Javascript*](js-webpage.md)  
   [__Class Six (B):__ *Computer Architecture and Logic*](architecture.md)
 1. [__Class Seven:__ *Programming with JavaScript*](js-program.md) 
-1. [__Class Eight:__ *Operators and Loops*](loops.md
-)
+1. [__Class Eight:__ *Operators and Loops*](loops.md)
 
-CODE 201 || Foundations of Software Development
+CODE 201 | Foundations of Software Development
 
 1. [__Class One:__ *Introductory HTML and JavaScript*](class-01.md)
 1. [__Class Two:__ *HTML Text and CSS Introduction, Basic JavaScript Instructions*](class-02.md)
@@ -35,7 +34,7 @@ CODE 201 || Foundations of Software Development
 1. [__Class Twelve:__ *\<canvas\> Element and Chart.js*](class-12.md)
 1. [__Class Thirteen:__ *The Past, Present & Future of Local Storage for Web Applications*](class-13.md)
 
-CODE 301 || Intermediate Software Development
+CODE 301 | Intermediate Software Development
 
 1. Class One
 1. Class Two
@@ -45,9 +44,11 @@ CODE 301 || Intermediate Software Development
 1. [__Class Six:__ *Node, Express, and APIs*](301class06.md)
 1. [__Class Seven:__ *REST*](301class07.md)
 1. [__Class Eight:__ *SQL*](301class08.md)
+1. [__Class Nine:__ *Refactoring*](301class09.md)
+1. [__Class Ten:__ *The Call Stack*](301class10.md)
 
 
-CODE 401 || Advanced Software Development
+CODE 401 | Advanced Software Development
 
 1. Class One
 1. Class Two
