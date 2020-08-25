@@ -47,6 +47,7 @@ CODE 301 | Intermediate Software Development
 1. [__Class Nine:__ *Refactoring*](301class09.md)
 1. [__Class Ten:__ *The Call Stack*](301class10.md)
 1. [__Class Eleven:__ *EJS*](301class11.md)
+1. [__Class Twelve:__ *EJS Partials*](301class12.md)
 
 CODE 401 | Advanced Software Development
 
