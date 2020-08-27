@@ -49,7 +49,8 @@ CODE 301 | Intermediate Software Development
 1. [__Class Eleven:__ *EJS*](301class11.md)
 1. [__Class Twelve:__ *EJS Partials*](301class12.md)
 1. [__Class Thirteen:__ *Sending Form Data*](301class13.md)
-
+1. [__Class Fourteen:__ *Database Normalization*](301class14.md)
+1. [__Class Fifteen:__ *Diversity and Inclusion*](301class15.md)
   
 CODE 401 | Advanced Software Development
 
