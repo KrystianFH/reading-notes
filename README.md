@@ -55,7 +55,7 @@ CODE 301 | Intermediate Software Development
 CODE 401 | Advanced Software Development
 
 1. [__Class One:__ *Java Basics*](401class01.md)
-1. [__Class Two:__ **]()
+1. [__Class Two:__ *Arrays, Loops, Imports*](401class02.md)
 1. [__Class Three:__ **]()
 1. [__Class Four:__ **]()
 1. [__Class Five:__ **]()
