@@ -57,7 +57,7 @@ CODE 401 | Advanced Software Development
 1. [__Class One:__ *Java Basics*](401class01.md)
 1. [__Class Two:__ *Arrays, Loops, Imports*](401class02.md)
 1. [__Class Three:__ *Maps, Primitives, File I/O*](401class03.md)
-1. [__Class Four:__ **]()
+1. [__Class Four:__ *Object-Oriented Programming*](401class04.md)
 1. [__Class Five:__ **]()
 1. [__Class Six:__ **]()
 1. [__Class Seven:__ **]()
