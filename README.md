@@ -36,9 +36,6 @@ CODE 201 | Foundations of Software Development
 
 CODE 301 | Intermediate Software Development
 
-1. Class One
-1. Class Two
-1. Class Three
 1. [__Class Four:__ *Responsive Web Design and Regular Expressions*](301class04.md)
 1. [__Class Five:__ *Heroku Deployment*](301class05.md)
 1. [__Class Six:__ *Node, Express, and APIs*](301class06.md)
@@ -59,8 +56,7 @@ CODE 401 | Advanced Software Development
 1. [__Class Three:__ *Maps, Primitives, File I/O*](401class03.md)
 1. [__Class Four:__ *Object-Oriented Programming*](401class04.md)
 1. [__Class Six:__ *Inheritance and Interfaces*](401class06.md)
-1. [__Class Seven:__ **]()
-1. [__Class Eight:__ **]()
+1. [__Class Eight:__ *Object Oriented Design*](401class08.md)
 1. [__Class Nine:__ **]()
 1. [__Class Ten:__ **]()
 1. [__Class Eleven:__ **]()
