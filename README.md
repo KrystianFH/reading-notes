@@ -57,7 +57,7 @@ CODE 401 | Advanced Software Development
 1. [__Class Four:__ *Object-Oriented Programming*](401class04.md)
 1. [__Class Six:__ *Inheritance and Interfaces*](401class06.md)
 1. [__Class Eight:__ *Object Oriented Design*](401class08.md)
-1. [__Class Nine:__ **]()
+1. [__Class Nine:__ *WRRC and Java*](401class09.md)
 1. [__Class Ten:__ **]()
 1. [__Class Eleven:__ **]()
 1. [__Class Twelve:__ **]()
