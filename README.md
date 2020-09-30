@@ -59,7 +59,7 @@ CODE 401 | Advanced Software Development
 1. [__Class Eight:__ *Object Oriented Design*](401class08.md)
 1. [__Class Nine:__ *WRRC and Java*](401class09.md)
 1. [__Class Twelve:__ *Spring RESTful Routing & Static Files*](401class12.md)
-1. [__Class Thirteen:__ **]()
+1. [__Class Thirteen:__ *Related Resources and Integration Testing*](401class13.md)
 1. [__Class Fourteen:__ **]()
 1. [__Class Fifteen:__ **]()
 1. [__Class Sixteen:__ **]()
