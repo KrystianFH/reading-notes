@@ -61,7 +61,7 @@ CODE 401 | Advanced Software Development
 1. [__Class Twelve:__ *Spring RESTful Routing & Static Files*](401class12.md)
 1. [__Class Thirteen:__ *Related Resources and Integration Testing*](401class13.md)
 1. [__Class Twenty Six:__ *Android Fundamentals*](401class26.md)
-1. [__Class Twenty Seven:__ **]()
+1. [__Class Twenty Seven:__ *Intents, Activities, and SharedPreferences*](401class27.md)
 1. [__Class Twenty Eight:__ **]()
 1. [__Class Twenty Nine:__ **]()
 1. [__Class Thirty:__ **]()
