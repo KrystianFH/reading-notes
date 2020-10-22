@@ -63,7 +63,7 @@ CODE 401 | Advanced Software Development
 1. [__Class Twenty Six:__ *Android Fundamentals*](401class26.md)
 1. [__Class Twenty Seven:__ *Intents, Activities, and SharedPreferences*](401class27.md)
 1. [__Class Twenty Eight:__ *RecyclerView*](401class28.md)
-1. [__Class Twenty Nine:__ **]()
+1. [__Class Twenty Nine:__ *Room*](401class29.md)
 1. [__Class Thirty:__ **]()
 1. [__Class Thirty One:__ **]()
 1. [__Class Thirty Two:__ **]()
