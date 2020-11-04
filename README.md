@@ -66,10 +66,7 @@ CODE 401 | Advanced Software Development
 1. [__Class Twenty Nine:__ *Room*](401class29.md)
 1. [__Class Thirty Two:__ *Serverless and Amplify*](401class32.md)
 1. [__Class Thirty Four:__ *Amplify and Cognito*](401class34.md)
-1. [__Class Thirty Five:__ **]()
-1. [__Class Thirty Six:__ **]()
-1. [__Class Thirty Seven:__ **]()
-1. [__Class Thirty Eight:__ **]()
+1. [__Class Thirty Eight:__ *Notifications*](401class38.md)
 1. [__Class Thirty Nine:__ **]()
 1. [__Class Forty:__ **]()
 
